@@ -22,3 +22,5 @@ menu.py - version of the game with a menu and automatic transition to higher lev
 
 The folder resources contains sprites used in the game that were created with the help of Gimp.
 
+## Game window
+![screen](https://user-images.githubusercontent.com/83085295/209990260-31a36dd9-9f72-4df7-931d-5ef2e235b97c.png)
